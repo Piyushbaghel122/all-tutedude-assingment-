@@ -1,0 +1,5 @@
+this file is overwritten 'w' node in python.
+have a nice day!
+#opening a file in python
+#open(file_name , mode_to_open)
+#Modes: r  , w , x , a , t , b => 'rt' is the default mode

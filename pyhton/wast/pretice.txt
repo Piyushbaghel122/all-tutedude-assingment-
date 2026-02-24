@@ -1,0 +1,7 @@
+Module 26: Network Programming in Python Using Socket: Building A Chat Application
+Submission: You need to upload the compressed zip file of your working project folder and also the complete screen recording of the code and working output to drive and then submit the accessible link (make sure to enable sharing access).
+Reference: For reference, as mentioned above, please follow Python course >Module 26.
+
+Note:
+In the screen recording, make sure you’re implementing a demo run, as done in the course lecture for testing the output! It should be identical to what’s done in the course.
+Also, you can always connect to the mentor using the chat support option for any doubts

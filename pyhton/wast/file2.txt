@@ -1,0 +1,6 @@
+this file is overwritten 'w' node in python.
+have a nice day!
+this content has been written using 'a' node.
+piyush kumar 
+this content has been written using 'a' node.
+piyush kumar good bye!
